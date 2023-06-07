@@ -1,3 +1,4 @@
+32c749d3ccb142d8a565ef994773f2b2
 <form action="action_page.php">
   <div class="container">
     <h1>MICHAEL RAYMORE'S DevOps TUTORIAL REGISTYRATION PAGE</h>
@@ -13,7 +14,7 @@
     <input type="text" placeholder="Middle Name" name="MiddleName" id="MiddleName" required>
     
 
-    <label for="Name"><b>Enter Your Surname</b></label>
+    <label for="Name"><b>Enter Your Family Name</b></label>
     <input type="text" placeholder="Enter Surame" name="SurName" id="SurName" required>
     <br>
 
