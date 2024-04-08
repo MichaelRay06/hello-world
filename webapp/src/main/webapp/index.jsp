@@ -9,11 +9,11 @@
     <br> 
 
 
-    <label for="Name"><b>Enter Middle Name</b></label>
+    <label for="Name"><b>Enter Middle Name please </b></label>
     <input type="text" placeholder="Middle Name" name="MiddleName" id="MiddleName" required>
     <br> 
 
-    <label for="Name"><b>Enter Your Surname</b></label>
+    <label for="Name"><b>Enter Your Surname please </b></label>
     <input type="text" placeholder="Enter Surame" name="SurName" id="SurName" required>
     <br>
 
