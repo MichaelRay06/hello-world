@@ -14,11 +14,7 @@
     <input type="text" placeholder="Middle Name" name="MiddleName" id="MiddleName" required>
     
 
-<<<<<<< HEAD
-    <label for="Name"><b>Enter Your Surname please </b></label>
-=======
     <label for="Name"><b>Enter Your Family Name</b></label>
->>>>>>> 8a955c135eccf28aeb1d36d555d6b911c137c1a1
     <input type="text" placeholder="Enter Surame" name="SurName" id="SurName" required>
     <br>
 
@@ -28,11 +24,7 @@
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
    
 
-<<<<<<< HEAD
-    <label for="email"><b>Enter Email please </b></label>
-=======
-    <label for="email"><b>Enter your email</b></label>
->>>>>>> 8a955c135eccf28aeb1d36d555d6b911c137c1a1
+    <label for="email"><b>Enter your email please</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
    
 
