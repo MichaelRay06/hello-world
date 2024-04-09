@@ -5,8 +5,8 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name"><b>Enter Your Name here please</b></label>
-    <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
+    <label for="Name"><b>Enter User Name</b></label>
+    <input type="text" placeholder="Enter Full Name  name="your Name" id="Name" required>
    
 
 
@@ -14,17 +14,25 @@
     <input type="text" placeholder="Middle Name" name="MiddleName" id="MiddleName" required>
     
 
+<<<<<<< HEAD
+    <label for="Name"><b>Enter Your Surname  </b></label>
+=======
     <label for="Name"><b>Enter Your Family Name</b></label>
+>>>>>>> 8a955c135eccf28aeb1d36d555d6b911c137c1a1
     <input type="text" placeholder="Enter Surame" name="SurName" id="SurName" required>
     <br>
 
 
     
-    <label for="mobile"><b>Enter mobile number please</b></label>
+    <label for="mobile"><b>Enter mobile number </b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
    
 
-    <label for="email"><b>Enter your email please</b></label>
+<<<<<<< HEAD
+    <label for="email"><b>Enter Email please </b></label>
+=======
+    <label for="email"><b>Enter your email</b></label>
+>>>>>>> 8a955c135eccf28aeb1d36d555d6b911c137c1a1
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
    
 
