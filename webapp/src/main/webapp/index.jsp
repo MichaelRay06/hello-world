@@ -1,40 +1,39 @@
 32c749d3ccb142d8a565ef994773f2b2
 <form action="action_page.php">
   <div class="container">
-    <h1>MICHAEL RAYMORE'S DevOps TUTORIAL REGISTYRATION PAGE</h>
+
+
+   <h1>MICHAEL RAYMORE'S DevOps TUTORIAL REGISTYRATION PAGE</h>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
     <label for="Name"><b>Enter User Name</b></label>
-    <input type="text" placeholder="Enter Full Name  name="your Name" id="Name" required>
+    <input type="text" placeholder="Enter Full Name"  name="your Name" id="Name" required>
+    <br>
    
 
 
-    <label for="Name"><b>Enter Middle Name please </b></label>
+    <label for="Name"><b>Enter Middle Name </b></label>
     <input type="text" placeholder="Middle Name" name="MiddleName" id="MiddleName" required>
+    <br>
     
 
-<<<<<<< HEAD
-    <label for="Name"><b>Enter Your Surname  </b></label>
-=======
-    <label for="Name"><b>Enter Your Family Name</b></label>
->>>>>>> 8a955c135eccf28aeb1d36d555d6b911c137c1a1
-    <input type="text" placeholder="Enter Surame" name="SurName" id="SurName" required>
+
+    <label for="Name"><b>Enter Your Surname </b></label>
+    <input type="text" placeholder="Enter Surname" name="SurName" id="SurName" required>
     <br>
 
 
     
     <label for="mobile"><b>Enter mobile number </b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
-   
+    <br>
 
-<<<<<<< HEAD
-    <label for="email"><b>Enter Email please </b></label>
-=======
+
+    
     <label for="email"><b>Enter your email</b></label>
->>>>>>> 8a955c135eccf28aeb1d36d555d6b911c137c1a1
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
-   
+    <br> 
 
     <label for="psw"><b> Your Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
