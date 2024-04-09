@@ -19,11 +19,11 @@
 
 
     
-    <label for="mobile"><b>Enter mobile</b></label>
+    <label for="mobile"><b>Enter mobile number please</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
-    <label for="email"><b>Enter Email</b></label>
+    <label for="email"><b>Enter Email please </b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
