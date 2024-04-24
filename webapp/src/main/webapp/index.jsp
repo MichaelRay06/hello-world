@@ -1,21 +1,21 @@
 32c749d3ccb142d8a565ef994773f2b2
 <form action="action_page.php">
   <div class="container">
-    <h1>MICHAEL RAYMORE'S DevOps TUTORIAL REGISTYRATION PAGE</h>
-    <p>Please fill in this form to create an account.</p>
+    <h1> RAYMORE'S DevOps TUTORIAL REGISTYRATION PAGE</h>
+    <p>Create an account.</p>
     <hr>
      
-    <label for="Name"><b>Enter Your Name here please</b></label>
+    <label for="Name"><b>Enter Your Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
    
 
 
-    <label for="Name"><b>Enter Middle Name please </b></label>
+    <label for="Name"><b>Enter Middle Name  </b></label>
     <input type="text" placeholder="Middle Name" name="MiddleName" id="MiddleName" required>
     
 
 <<<<<<< HEAD
-    <label for="Name"><b>Enter Your Surname please </b></label>
+    <label for="Name"><b>Enter Your Surname  </b></label>
 =======
     <label for="Name"><b>Enter Your Family Name</b></label>
 >>>>>>> 8a955c135eccf28aeb1d36d555d6b911c137c1a1
